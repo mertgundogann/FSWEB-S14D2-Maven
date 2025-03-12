@@ -7,7 +7,7 @@ public class Wall {
         this.direction = direction;
     }
     public String getDirection(){
-        return direction;
+        return  direction;
     }
     public void create(){
         System.out.println("Wall has been built.");

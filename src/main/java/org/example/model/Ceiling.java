@@ -11,12 +11,10 @@ public class Ceiling {
         this.height = height;
         this.color = color;
     }
-
-    public int getHeight() {
+    public int getHeight(){
         return height;
     }
-
-    public PaintColor getColor() {
+    public PaintColor getColor(){
         return color;
     }
     public void create(){
